@@ -1,4 +1,5 @@
- College name:Priyadarshini Institute of Science and Technology for Women
+ College name-Priyadarshini Institute of Science and Technology for Women
+ 
  Team Leader- Saraswathi kondapalli
  Team Member- 1.B.Bhavya
               2.k.Anjana
